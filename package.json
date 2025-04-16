@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/michael-methvin/ndm-website#readme",
   "dependencies": {
+    "eslint": "^9.24.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   }
