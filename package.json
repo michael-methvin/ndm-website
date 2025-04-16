@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/michael-methvin/ndm-website/issues"
   },
-  "homepage": "https://github.com/michael-methvin/ndm-website#readme"
+  "homepage": "https://github.com/michael-methvin/ndm-website#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }
